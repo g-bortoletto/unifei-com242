@@ -8,11 +8,11 @@
 		<version>2.7.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>edu.unifei.com242.minicurso.consumer</groupId>
-	<artifactId>minicurso</artifactId>
+	<groupId>br.edu.unifei.com242.minicurso.consumer</groupId>
+	<artifactId>consumer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>minicurso</name>
-	<description>Consumer para o minicurso de SD</description>
+	<name>consumer</name>
+	<description>Consumer para minicurso de Sistemas Distribuidos</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
